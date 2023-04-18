@@ -1,0 +1,1 @@
+python detect.py --weights best.pt --conf 0.5 --img-size 320 --source 0 --nosave
